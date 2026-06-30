@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:10B981&height=220&section=header&text=Muhammad%20Ghulam%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Finance%20%26%20ML&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:10B981&height=220&section=header&text=Muhammad%20Ghulam%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Finance%20and%20ML&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/Muhammad-Ghulam-Ali">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Data+Scientist+%7C+Finance+%26+ML;Credit+Risk+%26+Predictive+Modeling;Python+%E2%80%A2+SQL+%E2%80%A2+NLP;Building+AI+Solutions+for+Finance" alt="Typing SVG" />
